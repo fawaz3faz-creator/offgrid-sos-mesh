@@ -1,0 +1,18 @@
+# Flutter generated
+.dart_tool/
+.packages/
+.pub-cache/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Native build outputs
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/Runner.xcworkspace/
+.DS_Store
+Thumbs.db
